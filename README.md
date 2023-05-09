@@ -1,4 +1,7 @@
-<h1>Hi, I'm Quin! <br/><a href="https://github.com/qbaebler">Programmer</a>, and <a href="https://www.linkedin.com/in/qbaebler">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Quin! <br/><a href="https://github.com/qbaebler">Programmer</a>, and <a href="www.linkedin.com/in/
+quin-baebler
+
+">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
