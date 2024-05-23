@@ -7,7 +7,9 @@
 </ul>
 
 <h2>🔒 CyberSecurity Things </h2>
-
+ <ul>
+   <li>CTF Writeups (Currently Compiling/Formatting for Github)</li>
+ </ul>
 <h2>👨‍💻 Software Development Projects:</h2>
 <b>Python</b>
    <ul>
