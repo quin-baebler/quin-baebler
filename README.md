@@ -1,5 +1,7 @@
 <h1>Hi, I'm Quin! I'm a <a href="https://github.com/quin-baebler"> Full-Stack Developer</a> and <a href="https://www.linkedin.com/in/quin-baebler">Cybersecurity Professional</a></h1>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <h2>📖 Final Senior Capstone Project with DoorDash </h2>
 <ul>
   <li><a href="https://ischool.uw.edu/capstone/projects/2024/mass-delivery-integration-doordash">About the Project</a></li>
@@ -26,4 +28,3 @@
   <img align="left" alt="QuinBaebler | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
 </a>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
