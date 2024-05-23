@@ -1,6 +1,5 @@
 <h1>Hi, I'm Quin! I'm a <a href="https://github.com/quin-baebler"> Full-Stack Developer</a> and <a href="https://www.linkedin.com/in/quin-baebler">Cybersecurity Professional</a></h1>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <h2>📖 Final Senior Capstone Project with DoorDash </h2>
 <ul>
