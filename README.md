@@ -1,7 +1,7 @@
 <h1>Hi, I'm Quin! <br/><a href="https://github.com/quin-baebler">Programmer</a>, and <a href="https://www.linkedin.com/in/quin-baebler">Cybersecurity Professional</a></h1>
 
 <h2>📖 Final Senior Capstone Project with DoorDash </h2>
-[About] (https://ischool.uw.edu/capstone/projects/2024/mass-delivery-integration-doordash)
+[About](https://ischool.uw.edu/capstone/projects/2024/mass-delivery-integration-doordash)
 [Github] (https://github.com/quin-baebler/TurboTaste)
 <h2>🔒 CyberSecurity Things </h2>
 - CTF Writeups (Currently reformatting)
