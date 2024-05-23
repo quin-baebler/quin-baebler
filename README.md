@@ -25,3 +25,5 @@
 <a href="mailto:qbaebler19@gmail.com">
   <img align="left" alt="QuinBaebler | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
 </a>
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
