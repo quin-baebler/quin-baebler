@@ -12,11 +12,16 @@
    <li>CTF Writeups (Currently Compiling/Formatting for Github)</li>
  </ul>
 <h2>👨‍💻 Software Development Projects:</h2>
-<b>Python</b>
+<h3>Python</h3>
+<h3>Security Projects</h3>
    <ul>
       <li><a href="https://github.com/quin-baebler/FileIntegrityMonitor">File Integrity Monitor</a></li>
       <li><a href="https://github.com/quin-baebler/PortScanner">Port Scanner</a></li>
     </ul>
+<h3>Automation Projects (WIP)</h3>
+  <ul>
+      <li><a href="https://github.com/quin-baebler/WhenShouldILeave">WhenShouldILeave - Travel Time to Work </a></li>
+  </ul>
 
 <h2> 🤳 Connect with me:</h2>
 
