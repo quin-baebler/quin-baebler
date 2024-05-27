@@ -9,7 +9,7 @@
 
 <h2>🔒 CyberSecurity Things </h2>
  <ul>
-   <li>CTF Writeups (Currently Compiling/Formatting for Github)</li>
+   <li>><a href="https://github.com/quin-baebler/CTF-Writeups"><CTF Writeups (WIP)</a></li> 
  </ul>
 <h2>👨‍💻 Software Development Projects:</h2>
 <h3>Python</h3>
