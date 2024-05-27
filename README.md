@@ -23,6 +23,11 @@
       <li><a href="https://github.com/quin-baebler/WhenShouldILeave">WhenShouldILeave - Travel Time to Work </a></li>
   </ul>
 
+  <h3>Kotlin</h3>
+  <ul>
+      <li><a href="https://github.com/quin-baebler/FoodHub">FoodHub - Calorie Tracker using FatSecret API</a></li>
+    </ul>
+
 <h2> 🤳 Connect with me:</h2>
 
 <a href="https://www.linkedin.com/in/quin-baebler">
